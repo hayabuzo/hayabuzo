@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Sergey Egorov
-- 🌱 I’m currently learning **_p5.js, WebGL_** and **_TouchDesigner_**
 - 👀 I’m interested in combination of **_photography_** and **_generative art_**
 - 💞️ I’m looking to collaborate on projects related to the **_image processing_** and **_camera effects_**
 - 📫 Feel free to contact me: https://t.me/hayabuzo
